@@ -16,7 +16,7 @@
 
     p.mb-4(data-aos="fade") Los medios guiados conducen (guían) las señales a través de un camino físico dentro de los cuales podemos encontrar:
 
-    .row.fondo-tema5.align-items-center.pb-5.mb-5
+    .row.fondo-tema5.align-items-center.pb-5.pt-5.pt-lg-0.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row
         

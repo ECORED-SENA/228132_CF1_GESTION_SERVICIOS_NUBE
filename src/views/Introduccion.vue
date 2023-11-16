@@ -14,9 +14,7 @@
         img(src="@/assets/curso/temas/intro/img.png", alt="")
       .col-11
         .bg-1.bx-sh1.b-r10.p-4.mt-n3
-          p.mb-0 En este punto, se inicia el estudio del componente formativo 
-            span.t-acento-contenido #[b “conceptos básicos de redes y #[em networking]”]
-            | ; tenga un primer acercamiento con los temas y conceptos que aquí se desarrollarán, explorando el video que se propone a continuación. ¡Éxitos!
+          p.mb-0 En este punto, se inicia el estudio del componente formativo #[b “conceptos básicos de redes y #[em networking]”]; tenga un primer acercamiento con los temas y conceptos que aquí se desarrollarán, explorando el video que se propone a continuación. ¡Éxitos!
     
     figure(data-aos="fade-down")
       .video

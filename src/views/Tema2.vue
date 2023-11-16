@@ -38,7 +38,7 @@
             .row.justify-content-around.align-items-center
               .col-md-6.mb-4.mb-md-0
                 h3 Estandarización
-                p La situación anterior, llevó a la necesidad de estandarizar; de esta manera se permitió la interconexión de una amplia gama de dispositivos, sin importar fabricante o tipo de software. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
+                p La situación anterior, llevó a la necesidad de estandarizar; de esta manera se permitió la interconexión de una amplia gama de dispositivos, sin importar fabricante o tipo de #[em software]. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
               .col-md-3
                 img(src='@/assets/curso/temas/t2/slider-img4.png', alt='')
     
@@ -47,40 +47,40 @@
         .row.justify-content-center
           .col-lg-9
             .row
-              .col-md-4.mb-3
+              .col-lg-4.col-md-6.mb-3
                 .tarjeta-slide.arriba.bt-tarjeta.bb-tarjeta.min-h200(@mouseover="indicadorTarjetaSlide = false")
                   .indicador--hover(v-if="indicadorTarjetaSlide")
-                  .tarjeta-slide__contenedor.bg-7.h-100
+                  .tarjeta-slide__contenedor.bg-7.h-100.align-items-center.d-flex
                     .tarjeta-slide__contenido.p-4.p-lg-5
-                      h4.text-center.mb-0 Internacional Standards Organization
+                      h4.text-center.mb-0 #[em Internacional Standards Organization]
                     .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj-1.png')})`}")
-              .col-md-4.mb-3
+              .col-lg-4.col-md-6.mb-3
                 .tarjeta-slide.arriba.bt-tarjeta.bb-tarjeta.min-h200
-                  .tarjeta-slide__contenedor.bg-7.h-100
+                  .tarjeta-slide__contenedor.bg-7.h-100.align-items-center.d-flex
                     .tarjeta-slide__contenido.p-4.p-lg-5
                       h4.text-center.mb-0 Instituto Nacional Americano de Normalización
                     .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj-2.png')})`}")
-              .col-md-4.mb-3
+              .col-lg-4.col-md-6.mb-3
                 .tarjeta-slide.arriba.bt-tarjeta.bb-tarjeta.min-h200
-                  .tarjeta-slide__contenedor.bg-7.h-100
+                  .tarjeta-slide__contenedor.bg-7.h-100.align-items-center.d-flex
                     .tarjeta-slide__contenido.p-4.p-lg-5
                       h4.text-center.mb-0 Asociación de Industrias Telecomunicaciones
                     .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj-3.png')})`}")
-              .col-md-4.mb-3
+              .col-lg-4.col-md-6.mb-3
                 .tarjeta-slide.arriba.bt-tarjeta.bb-tarjeta.min-h200
-                  .tarjeta-slide__contenedor.bg-7.h-100
+                  .tarjeta-slide__contenedor.bg-7.h-100.align-items-center.d-flex
                     .tarjeta-slide__contenido.p-4.p-lg-5
                       h4.text-center.mb-0 Instituto de ingenieros electrónicos y eléctricos
                     .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj-4.png')})`}")
-              .col-md-4.mb-3
+              .col-lg-4.col-md-6.mb-3
                 .tarjeta-slide.arriba.bt-tarjeta.bb-tarjeta.min-h200
-                  .tarjeta-slide__contenedor.bg-7.h-100
+                  .tarjeta-slide__contenedor.bg-7.h-100.align-items-center.d-flex
                     .tarjeta-slide__contenido.p-4.p-lg-5
                       h4.text-center.mb-0 Asociación de Industrias Electrónicas
                     .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj-5.png')})`}")
-              .col-md-4.mb-3
+              .col-lg-4.col-md-6.mb-3
                 .tarjeta-slide.arriba.bt-tarjeta.bb-tarjeta.min-h200
-                  .tarjeta-slide__contenedor.bg-7.h-100
+                  .tarjeta-slide__contenedor.bg-7.h-100.align-items-center.d-flex
                     .tarjeta-slide__contenido.p-4.p-lg-5
                       h4.text-center.mb-0 Unión Internacional de Telecomunicaciones
                     .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/tarj-6.png')})`}")

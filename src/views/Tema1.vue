@@ -7,7 +7,7 @@
         span 1
       h1 Definición y generalidades de redes de datos
 
-    .row.fondo-tema1.align-items-center.pb-5
+    .row.fondo-tema1.align-items-center.pb-5.pt-lg-0.pt-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row
 

@@ -25,7 +25,7 @@
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade") 
       p.mb-0 #[b Figura 3.] Puertos de comunicación para servicios de red
     .row
-      .col-lg-6(data-aos="fade-right") 
+      .col-lg-6.mb-5.mb-lg-0(data-aos="fade-right") 
         .tarjeta.bg-3.p-lg-5.p-4.h-100
           img(src="@/assets/curso/temas/t4/fig3.svg", alt="Figura que enuncia algunos de los puertos más comunes, para comunicación con servicios de red.")
       .col-lg-6(data-aos="fade-left") 

@@ -33,8 +33,8 @@
         img(src="@/assets/curso/temas/t3/fig2.svg", alt="Gráfica que muestra los elementos básicos de la comunicación: emisor, mensaje, código, canal, receptor.")
 
     .tarjeta.bg-2.p-4.mb-4(data-aos="fade-down")
-      .row.align-items-center
-        .col-lg-2.col-md-3.mb-3.mb-md-0
+      .row.align-items-center.justify-content-center
+        .col-lg-2.col-md-3.col-5.mb-3.mb-md-0
           img.px-lg-4(src="@/assets/curso/temas/t3/ico.svg", alt="")
         .col-lg-10.col-md-9 
           p.mb-0 Como se evidencia en la figura anterior, toda comunicación debe contar con un emisor, un mensaje a enviar y un código que permite que el mensaje viaje por un canal. Para que ambos actores puedan interactuar se requiere contar con un código o lenguaje común, el cual permite que se puedan entender; ese estándar o lenguaje común, es lo que conocemos como un protocolo de comunicaciones, el cual es un conjunto de normas que están obligadas a cumplir todos los dispositivos, #[em hardware] y #[em software] que intervienen en una comunicación de datos entre computadoras y demás dispositivos, sin estas reglas o estándares la comunicación resultaría caótica y por tanto imposible.
@@ -50,7 +50,7 @@
         h4.text-center Protocolos orientados a la conexión
         p Requieren un modo de comunicación de redes donde se debe establecer una conexión antes de transferir datos. Se identifica el flujo de tráfico con un identificador de conexión en lugar de utilizar explícitamente las direcciones de la fuente y el destino.
         p Se dice que un servicio de comunicación entre dos dispositivos está orientado a conexión cuando antes de iniciar la comunicación se valida el cumplimiento de ciertas variables como (disponibilidad, alcance, origen, destino, etc.) entre estos dispositivos y se negocian unas credenciales para hacer esta conexión más segura y eficiente.
-      .col-md.tarjeta.color-primario.p-5.text-white
+      .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6.col-md-4
             figure

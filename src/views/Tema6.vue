@@ -29,7 +29,7 @@
             img(src='@/assets/curso/temas/t6/tarj-ico2.svg' alt='')
           .tarjeta.bg-2.b-r10.d-flex.align-items-center
             .p-4.text-center
-              p.mb-0 Scanner
+              p.mb-0 Escáner
       .col-lg-3.col-md-6
         .tarjeta-avatar-b.mb-3
           .tarjeta-avatar-b__img

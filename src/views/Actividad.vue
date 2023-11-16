@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar-terminos.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Redes y #[b Networking]
+          h2 Redes y #[em Networking]
         p.mb-4 Reforzar los conceptos básicos y demás elementos teóricos sobre redes y #[em networking], trabajados en el componente formativo
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
