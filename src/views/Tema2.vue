@@ -38,7 +38,7 @@
             .row.justify-content-around.align-items-center
               .col-md-6.mb-4.mb-md-0
                 h3 Estandarización
-                p La situación anterior, llevó a la necesidad de estandarizar; de esta manera se permitió la interconexión de una amplia gama de dispositivos, sin importar fabricante o tipo de #[em software]. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
+                p La situación anterior llevó a la necesidad de estandarizar; de esta manera se permitió la interconexión de una amplia gama de dispositivos, sin importar fabricante o tipo de #[em software]. Para que el intercambio de información sea posible se requiere el establecimiento de una serie de estándares.
               .col-md-3
                 img(src='@/assets/curso/temas/t2/slider-img4.png', alt='')
     

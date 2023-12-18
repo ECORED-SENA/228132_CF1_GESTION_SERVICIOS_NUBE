@@ -134,12 +134,12 @@ export default {
   glosario: [
     {
       termino: 'ISO',
-      significado: 'organización de estándares internacional',
+      significado: ' Organización Internacional de Normalización.',
     },
     {
       termino: 'Medio de transmisión',
       significado:
-        'para que la comunicación entre un emisor y un receptor se realice se requiere de un medio que facilite la conexión entre ambos extremos el cual es conocido como el medio de transmisión, este constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos.',
+        'para que la comunicación entre un emisor y un receptor se realice se requiere de un medio que facilite la conexión entre ambos extremos, el cual es conocido como el medio de transmisión, este constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos.',
     },
     {
       termino: '<em>Networking</em>',
@@ -206,7 +206,7 @@ export default {
       autores: [
         {
           nombre: 'Jonathan Guerrero Astaiza',
-          cargo: 'Experto temátic',
+          cargo: 'Experto temático',
           centro:
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },

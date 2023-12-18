@@ -13,7 +13,7 @@
 
           img(src="@/assets/curso/temas/t6/img.png", alt="")
 
-    p.mb-4(data-aos="fade") Las redes de datos facilitan y potencian el trabajo en red entre los diferentes usuarios y dispositivos, de tal manera que se pueda acceder a dispositivos y recursos compartidos. Cuando mencionamos los recursos nos referimos a todos esos elementos tanto hardware como #[em software] que pueden ser compartidos y utilizados por los diferentes dispositivos conectados, estos recursos pueden ser desde el punto de vista #[em hardware]:
+    p.mb-4(data-aos="fade") Las redes de datos facilitan y potencian el trabajo en red entre los diferentes usuarios y dispositivos, de tal manera que se pueda acceder a dispositivos y recursos compartidos. Cuando mencionamos los recursos nos referimos a todos esos elementos tanto #[em hardware] como #[em software] que pueden ser compartidos y utilizados por los diferentes dispositivos conectados, estos recursos pueden ser desde el punto de vista #[em hardware]:
       
     .row.mb-3.justify-content-center(data-aos="fade-down")
       .col-lg-3.col-md-6

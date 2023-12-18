@@ -61,14 +61,14 @@
     p.mb-4(data-aos="fade") A continuación, se evidencian algunos ejemplos de los protocolos que son usados en los servicios que normalmente se utilizan en la comunicación entre las redes de datos.
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade")
-      p.mb-0 #[b Tabla 1.] Suite de protocolos según el modelo de referencia
+      p.mb-0 #[b Tabla 1.] #[em Suite] de protocolos según el modelo de referencia
     .tabla-a.color-secundario(data-aos="fade-down")
       table
         caption Fuente: SENA, 2021.
         thead
           tr.bg-6.text-white
             th Modelo OSI
-            th Suite de protocolos TCP/IP
+            th #[em Suite] de protocolos TCP/IP
             th Modelo TCP/IP
         tbody.text-center.fw-bold
           tr

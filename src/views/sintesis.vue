@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-4 Aquí finaliza el estudio de este componente formativo. Enseguida, se muestra un esquema que recoge lo más importante de los conceptos y temas vistos. Analícelo y desarrolle su propia síntesis de lo estudiado. ¡Adelante!
+    p.mb-4 Aquí finaliza el estudio de este componente formativo. Enseguida, se muestra un esquema que recoge lo más importante de los conceptos y temas tratados. Analícelo y desarrolle su propia síntesis de lo estudiado. ¡Adelante!
 
     .row.justify-content-center
       .col-lg-12.mb-5
